@@ -34,7 +34,9 @@ class FormatDataTable extends DataTable
     {
         return $model->newQuery();
     }
-
+    /*
+     * HERERERE
+     */
     /**
      * Optional method if you want to use html builder.
      *
